@@ -5,7 +5,6 @@
   "main": "./build/image-gallery",
   "scripts": {
     "start": "gulp dev",
-    "postinstall": "gulp build",
     "build": "gulp build",
     "lint": "eslint --ext .js,.jsx src"
   },
